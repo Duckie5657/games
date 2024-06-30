@@ -1,8 +1,17 @@
 body {
     box-shadow: 0 0 10px 10px #71de8e;
+    display flex;
+    flex-direction: column;
+    height: 100vh;
+}
+main {
+    flex: 1;
+    overflow: scroll;
+}
+#GameIcon {
+    border-radius: 25px;
 }
 <style>
 a:link {
     color:; red;
 }
-</style>
