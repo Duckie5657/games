@@ -1,5 +1,5 @@
 body {
-    box-shadow: 0 0 10px 10px #71de8e;
+    border: 10px solid #71de8e;
 }
 <style>
 #GameIcon {
